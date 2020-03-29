@@ -1,0 +1,21 @@
+{
+    "name": "chaodada/pagination",
+    "description": "简单分页类",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "超大大",
+            "email": "2167162990@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chaodada\\Pagination\\": "src/Pagination"
+        }
+    }
+}
